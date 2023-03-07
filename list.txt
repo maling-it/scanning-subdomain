@@ -98,3 +98,13 @@ sms
 office
 exchange
 ipv4
+blog
+contact
+kontak
+mhs
+dosen
+siswa
+user
+admin
+learning
+konten

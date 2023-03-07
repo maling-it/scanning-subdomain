@@ -5,7 +5,7 @@ sebenarnya sudah ada : subfinder, knockpy, dll
 
 tapi mungkin ini adalah salah satu product yang nantinya akan dikemangkan oleh Maling IT
 
-
+kami mendapatkan referensi dari channel youtube Python Project
 
 # Tata cara penggunaan
 

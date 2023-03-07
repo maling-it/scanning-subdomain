@@ -3,7 +3,7 @@
 salah satu tools untuk mencari subdomain dari suatu website system
 sebenarnya sudah ada : subfinder, knockpy, dll
 
-tapi mungkin ini adalah salah satu product yang nantinya akan dikemangkan oleh Maling IT
+tapi mungkin ini adalah salah satu product yang nantinya akan dikembangkan oleh Maling IT
 
 kami mendapatkan referensi dari channel youtube Python Project
 

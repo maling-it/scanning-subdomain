@@ -37,7 +37,7 @@
 import requests
 
 domain = input("Enter domain: ")
-file = open('wordlist.txt','r')
+file = open('list.txt','r')
 content = file.read()
 
 subdomains = content.splitlines()
